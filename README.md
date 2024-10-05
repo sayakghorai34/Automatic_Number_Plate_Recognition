@@ -15,6 +15,15 @@ The Jupyter Notebook `Number-Plate.ipynb` includes the following features:
 3. **Number Plate Detection**: Using various image processing techniques, the notebook identifies and extracts the number plate region from the image.
 4. **Optical Character Recognition (OCR)**: The extracted number plate is then processed using OCR to read the characters on the plate.
 
+## Few Images of the outputs
+
+![image](https://github.com/user-attachments/assets/45aaddfa-6a81-4a95-9213-899a7acf1cbc)
+![image](https://github.com/user-attachments/assets/4ede54d0-2d71-4233-b1a2-df6c11242e6a)
+
+![image](https://github.com/user-attachments/assets/71c8a262-efa7-4388-8732-9cff825be291)
+
+
+
 ## Repository Structure
 
 - `Number-Plate.ipynb`: The main Jupyter Notebook containing the ANPR implementation.
